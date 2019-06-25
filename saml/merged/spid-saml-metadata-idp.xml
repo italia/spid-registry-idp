@@ -231,7 +231,7 @@ lMDbdL6Ec/0xAljQSOFpozFduGoYTKF6Ig2Z5NleHPuYVyWLmBhw0lGfyvKGyk9Ev55WxTwHapQB
     <!-- INTESA ID *end* -->
 
     <!-- LEPIDA *start* -->
-    <md:EntityDescriptor xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion" xmlns:xs="http://www.w3.org/2001/XMLSchemainstance" entityID="https://id.lepida.it/idp/shibboleth">
+    <md:EntityDescriptor xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion" xmlns:xs="http://www.w3.org/2001/XMLSchemainstance" ID="_gh3s48d19e23e85be40k4ab5ey331e7k4f04f73fb5" entityID="https://id.lepida.it/idp/shibboleth">
         <md:IDPSSODescriptor WantAuthnRequestsSigned="true" protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol">
             <md:KeyDescriptor use="signing">
                 <ds:KeyInfo>
@@ -494,7 +494,7 @@ lMDbdL6Ec/0xAljQSOFpozFduGoYTKF6Ig2Z5NleHPuYVyWLmBhw0lGfyvKGyk9Ev55WxTwHapQB
             <md:OrganizationName xml:lang="it">Register.it S.p.A.</md:OrganizationName>
             <md:OrganizationDisplayName xml:lang="it">Register.it
                 S.p.A.</md:OrganizationDisplayName>
-            <md:OrganizationURL xml:lang="it">https//www.register.it</md:OrganizationURL>
+            <md:OrganizationURL xml:lang="it">https://www.register.it</md:OrganizationURL>
         </md:Organization>
     </md:EntityDescriptor>
     <!-- SPIDITALIA *end* -->
